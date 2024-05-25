@@ -14,6 +14,10 @@ The repository includes the following key components:
 - `infer.ipynb`: Notebook containing the inference process.
 - `preprocess.ipynb`: Notebook for data preprocessing steps.
 
+## Solution Summary
+
+For a detailed overview of our solution, please visit the [discussion post](https://www.kaggle.com/competitions/spr-head-ct-age-prediction-challenge/discussion/499240) on Kaggle.
+
 ## Citation
 
 If you use this code in your research, please cite the competition as follows:
@@ -27,13 +31,6 @@ year = {2024},
 url = {https://kaggle.com/competitions/spr-head-ct-age-prediction-challenge}
 }
 ```
-
-
-## Usage
-
-1. **Training**: Use `train.ipynb` to train the model on the provided dataset.
-2. **Inference**: Use `infer.ipynb` to make predictions on new data.
-3. **Preprocessing**: Use `preprocess.ipynb` to preprocess the data before training and inference.
 
 ## Acknowledgments
 
