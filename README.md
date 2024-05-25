@@ -11,7 +11,7 @@ The goal of this competition was to predict the age of patients from their head 
 The repository includes the following key components:
 
 - `train_infer.ipynb`: Notebook containing the training & inference process of the model.
-- `preprocess.ipynb`: Notebook for data preprocessing steps. (avalable soon)
+- `preprocess.ipynb`: Notebook for data preprocessing steps. (available soon)
 
 ## Solution Summary
 
